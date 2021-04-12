@@ -1,0 +1,81 @@
+p {
+  font-family: "Helvetica";
+  text-align: center;
+}
+
+header h1  {
+  font-family:"Helvetica";
+  font-size: 14px;
+  font-weight: normal;
+  font-style: italic;
+}
+
+nav h2 {
+  font-family: "Helvetica";
+  font-size: 12px;
+  font-weight: normal;
+}
+
+a {
+  color: Black;
+  text-decoration: none;
+}
+
+header,
+nav {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+footer p {
+  font-family: "Helvetica";
+  font-size: 9px;
+  color: DarkGray;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+
+}
+
+img {
+  height: 400px;
+  width: auto;
+  position: relative;
+  left: 700px;
+  bottom: 110px;
+}
+
+.about {
+  font-family: "Helvetica";
+  font-size: 12px;
+  color: DarkGray;
+  position: relative;
+  right: 30px;
+}
+
+.contact {
+  font-family: Helvetica;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 18px;
+  position: fixed;
+  width: 100%;
+  text-align: center;
+}
+
+.underline {
+  text-decoration: underline;
+  color: DarkGray;
+}
+
+.maintenance {
+    font-family: "Helvetica";
+    font-size: 12px;
+    color: DarkGray;
+    position: fixed;
+    width: 100%;
+    text-align: center;*/
+    color: red;
+  }
